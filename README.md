@@ -30,3 +30,6 @@ C# WindowForm을 사용할 계획입니다.
 > 5월 3주차 : 개체관계 수정, 
 >
 > 5월 4주차 : 릴레이션 규칙을 기반으로 
+>
+> 5월 5주차 : 테이블 정규화
+>  https://github.com/201833016/Foodplatform_Req
