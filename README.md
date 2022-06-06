@@ -33,3 +33,5 @@ C# WindowForm을 사용할 계획입니다.
 >
 > 5월 5주차 : 테이블 정규화
 >  https://github.com/201833016/Foodplatform_Req
+>
+> 6월 1주차 : 다듬기
