@@ -35,3 +35,5 @@ C# WindowForm을 사용할 계획입니다.
 >  https://github.com/201833016/Foodplatform_Req
 >
 > 6월 1주차 : 다듬기
+>
+> 6월 4주차 : 시험 기간 종료후 
